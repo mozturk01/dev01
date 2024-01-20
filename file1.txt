@@ -1,5 +1,5 @@
 Selamlar
-Emre html kodu yazdı bir buton oluşturdu web sitesin
-emre yeni bit buton ekledi
+Ekip html kodu yazdı bir buton oluşturdu web sitesin
+Backend yeni bit buton ekledi
 front end ekibi yeni bişi ekledi
 
